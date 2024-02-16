@@ -1,2 +1,2 @@
 # Python 🐍
-I'm using this repo as a starting point to learnn python. Let's go
+I'm using this repo as a starting point to learn python. Let's go
